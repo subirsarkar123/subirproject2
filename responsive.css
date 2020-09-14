@@ -1,0 +1,35 @@
+ @media(max-width:992px){
+    .about-caption h3 {
+        font-size: 38px;
+       
+        margin-bottom: 40px;
+    }
+   .years span {
+        font-size: 77px;
+    }
+    .gallary-img {
+        margin-top: 19px;
+    }
+    .s-btn {
+        margin-bottom: 16px;
+    }
+    .single-brand {
+        margin-bottom: 20px;
+    }
+    .turist-img {
+        
+        margin-top: 100px;
+    }
+    .footer-icon {
+        padding-top: 20px;
+        text-align: center;
+    }
+    
+}
+@media(max-width:768px){
+    .blog-bar {
+        margin-bottom: 29px;
+        margin-top: 89px;
+        
+    }
+}

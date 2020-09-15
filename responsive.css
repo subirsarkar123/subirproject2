@@ -1,4 +1,13 @@
  @media(max-width:992px){
+    .bannar-cap h1 {
+        font-size: 27px;
+        max-width: 500px;
+    }
+    .bannar-area {
+      
+        padding: 23px;
+        
+    }
     .about-caption h3 {
         font-size: 38px;
        
@@ -24,12 +33,61 @@
         padding-top: 20px;
         text-align: center;
     }
-    
+    .testimonial-top-cap p {
+        
+        font-size: 17px;
+        
+    }
 }
 @media(max-width:768px){
     .blog-bar {
         margin-bottom: 29px;
         margin-top: 89px;
         
+    }
+    .about-caption h3 {
+        font-size: 28px;
+        margin-bottom: 36px;
+    }
+    .about-caption2 h3 {
+        font-size: 19px;
+    }
+    .about-caption2 .pera {
+        margin-bottom: 20px;
+       
+    }
+    .years span {
+        font-size: 66px;
+    }
+    .years-details p {
+        padding-left: 26px;
+        
+    }
+    .section-title h2 {
+       
+        font-size: 37px;
+       
+    }
+    .s-btn {
+        height: 46px;
+       
+    }
+}
+@media(max-width:576px){
+    .bannar-cap h4 {
+        
+        font-size: 18px;
+        
+    }
+    .bannar-cap h1 {
+        font-size: 22px;
+       
+    }
+    .s-btn {
+        height: 41px;
+        
+    }
+    .about-caption2 {
+        margin-top: 32px;
     }
 }
